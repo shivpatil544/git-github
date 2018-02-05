@@ -8,7 +8,7 @@ class Arithematic {
 			System.out.println(b+c);
 		}
 		else{
-			System.out.println(b-c);
+			System.out.println(b*c);
 		}
 	}
 }
